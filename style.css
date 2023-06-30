@@ -24,7 +24,7 @@ body {
     background-color: var(--background-color);
     background-image: url(./images/background-image.svg), url(./images/background-image2.svg);
     background-repeat: no-repeat, no-repeat;
-    background-position: left -70% top 50%, right -60% bottom 140%;
+    background-position: left -80% top 50%, right -70% bottom 140%;
     display: flex;
     justify-content: center;
     align-items: center;
